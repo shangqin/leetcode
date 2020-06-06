@@ -1,1 +1,1 @@
-add_executable(300 main.cpp)
+add_executable(300 300.cpp)

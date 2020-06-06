@@ -5,6 +5,7 @@
 using namespace std;
 
 /*
+ * [动态规划]
  * 10, 9, 2, 5, 3, 7, 101, 18动态规划，最长递增子序列
  * 300 -- 基础，求最长递增子序列的长度
  * 673 -- 升级版，求最长递增子序列的个数
@@ -69,10 +70,13 @@ public:
     }
 };
 
-int main() {
-    vector<int> nums = {10, 9, 2, 5, 3, 7, 101, 18};
-    int ret = Solution().lengthOfLIS(nums);
-    cout << ret << endl;
+int main()
+{
+    {
+        vector<int> nums = {10, 9, 2, 5, 3, 7, 101, 18};
+        int ret = Solution().lengthOfLIS(nums);
+        cout << ret << endl;
+    }
 
     return 0;
 }
