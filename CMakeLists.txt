@@ -4,6 +4,8 @@ project(leetcode)
 set(CMAKE_CXX_STANDARD 14)
 
 add_subdirectory(5)
+#add_subdirectory(93)
+add_subdirectory(131)
 add_subdirectory(300)
 add_subdirectory(588)
 add_subdirectory(673)

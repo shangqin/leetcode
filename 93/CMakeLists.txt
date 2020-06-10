@@ -1,0 +1,1 @@
+add_executable(93 93.cpp)
