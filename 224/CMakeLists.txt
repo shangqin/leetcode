@@ -1,0 +1,1 @@
+add_executable(224 224.cpp)

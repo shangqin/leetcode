@@ -23,4 +23,4 @@
 | [5. 最长回文子串](5/5.md) | 动态规划 | 中等 | https://leetcode-cn.com/problems/longest-palindromic-substring/ |
 
 - [动态规划问题分类](doc/动态规划问题分类.md)
-- [动态规划问题汇总](doc/动态规划问题总结.md)
+- [动态规划问题总结](doc/动态规划问题总结.md)
